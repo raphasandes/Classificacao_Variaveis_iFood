@@ -51,3 +51,11 @@ Utilizamos `df.dtypes` e `df.info()` para um *overview* dos tipos de dados detec
 
 ```python
 df.dtypes
+
+---
+
+## 🎓 Observação importante
+
+O dataset foi intencionalmente diminunído para que pudesse ser utilizado na plataforma Git. O arquivo original continham mais que 350.000 registro e 113,6 MB.
+
+---
